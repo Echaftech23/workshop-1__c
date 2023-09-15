@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*Challenge 8 : Affichage de la valeur octale et hexadécimale équivalente. */
+
 int main(int argc, char *argv[]) {
 	float moy, mention;
 	printf("Veuillez saisir une moyenne entre 0 et 20 : ");
